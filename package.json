@@ -1,0 +1,27 @@
+{
+  "name": "DailyCodingProblem",
+  "version": "1.0.0",
+  "description": "A place for me to keep the problems I work on daily. Feel free to snoop around.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmarcello/DailyCodingProblem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonmarcello/DailyCodingProblem/issues"
+  },
+  "homepage": "https://github.com/jonmarcello/DailyCodingProblem#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
